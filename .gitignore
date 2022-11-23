@@ -1,0 +1,8 @@
+venv/
+Transformers/
+logs/
+test-trainer/./allitems.csv
+allitems_np.csv
+Dataset/allitems.csv
+allitems.csv
+concatinated_train_dataset.pt
